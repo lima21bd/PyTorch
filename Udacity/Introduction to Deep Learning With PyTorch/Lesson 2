@@ -12,3 +12,20 @@
 # Learning Rate
 
 > Learning rate is a tuning parameter in an optimization algorithm that determines the step size at each iteration while moving toward a minimum of a loss function.
+
+# Perception Algorithm
+
+> 1. Start with random weihts: w1, w2, ...., wn, b
+  2. For every misclassified point (x1, x2, ...., xn):
+        2.1. if prediction = 0:
+                for i = 1, 2, ...., n:
+                    change = wi + (alpha * xi)
+                change b to (b + alpha)
+                
+        2.2. if prediction = 1:
+                for i = 1, 2, ...., n:
+                    change = wi - (alpha * xi)
+                change b to (b - alpha)
+                
+   Here, negative class = 0
+         positive positive = 1
