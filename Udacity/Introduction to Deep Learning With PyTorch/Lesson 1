@@ -1,0 +1,5 @@
+# About PyTorch
+
+> PyTorch is an extension of Numpy that has some convenience classes for defining neural networks.
+> Developed by Facebook's AI Research lab (FAIR).
+> Supports GPU
