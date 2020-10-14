@@ -8,3 +8,7 @@
   Binary classifiers decide whether an input usually represented by a series of vectors belongs to a specific class.
   In short, a perceptron is a single-layer neural network. 
   They consist of four main parts including input values, weights and bias, net sum, and an activation function.
+
+# Learning Rate
+
+> Learning rate is a tuning parameter in an optimization algorithm that determines the step size at each iteration while moving toward a minimum of a loss function.
