@@ -39,3 +39,11 @@
 > Which conditions should be met in order to apply gradient descent?
   1. The error function should be differentiable
   2. The error function should be continuous
+ 
+# Discrete Prediction vs. Continuous Prediction
+
+> Continuous Prediction is better than discrete prediction. For this, we need to switch from discrete to continuous predictions.
+
+# Cross Entropy
+> Bigger value of CE indicates bad model.
+> Smaller value of CE indicates good model.
