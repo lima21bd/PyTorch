@@ -45,5 +45,6 @@
 > Continuous Prediction is better than discrete prediction. For this, we need to switch from discrete to continuous predictions.
 
 # Cross Entropy
-> Bigger value of CE indicates bad model.
-> Smaller value of CE indicates good model.
+> There's definitely a connection between probabilities and error functions. It's called Cross-Entropy.
+* Bigger value of CE indicates bad model.
+* Smaller value of CE indicates good model.
