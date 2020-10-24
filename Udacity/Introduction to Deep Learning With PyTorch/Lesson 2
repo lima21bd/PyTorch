@@ -52,4 +52,12 @@
 # Feedforward
 > Feedforward is the process neural networks use to turn the input into an output.
 
+# Backpropagation
+> Backpropagation consists of:
 
+  1. Doing a feedforward operation.
+  2. Comparing the output of the model with the desired output.
+  3. Calculating the error.
+  4. Running the feedforward operation backwards (backpropagation) to spread the error to each of the weights.
+  5. Use this to update the weights, and get a better model.
+  6. Continue this until we have a model that is good.
