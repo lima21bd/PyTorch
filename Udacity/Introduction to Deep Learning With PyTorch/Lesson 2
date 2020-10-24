@@ -48,3 +48,8 @@
 > There's definitely a connection between probabilities and error functions. It's called Cross-Entropy.
 * Bigger value of CE indicates bad model.
 * Smaller value of CE indicates good model.
+
+# Feedforward
+> Feedforward is the process neural networks use to turn the input into an output.
+
+
