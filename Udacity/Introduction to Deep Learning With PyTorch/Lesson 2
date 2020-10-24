@@ -34,3 +34,8 @@
 
 > Error function tells us how far we are from the solution.
 
+# log-loss function
+
+> Which conditions should be met in order to apply gradient descent?
+  1. The error function should be differentiable
+  2. The error function should be continuous
