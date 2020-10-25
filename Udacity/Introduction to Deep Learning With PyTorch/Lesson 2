@@ -70,3 +70,19 @@
 > Panalize large weights
 > L1 regularization use Mode, Good for feature selection.
 > L2 regularization use Square, Better for training models.
+
+# Local Minima
+> Gradient Descent can't handle local minima
+> Random Restart can solve it.
+> Momentum can also solve it.
+
+# Activation Function
+> Increase the value of weight in Gradient Descent
+
+# Stochastic Gradient Descent
+> The idea behind SGD is -
+  1. Take small subsets of data
+  2. Run them through the neural network
+  3. Calculate gradient of the error function of those points.
+  4. Then move move one step in that direction.
+ 
